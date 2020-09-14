@@ -43,7 +43,7 @@ export const robots = [
     },
     {
       id: 8,
-      name: 'Nicholas Runolfsdottir V',
+      name: 'Nicholas Runoverme',
       username: 'Maxime_Nienow',
       email: 'Sherwood@rosamond.me'
     },
